@@ -12,6 +12,8 @@ Player::~Player()
 {
 	//コメント！！！！
 
+	//ここも変更！！
+
 }
 
 HRESULT Player::Load()

@@ -10,6 +10,7 @@ Player::Player()
 
 Player::~Player()
 {
+	//コメント！！！！
 
 }
 
